@@ -12,7 +12,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-git clone https://github.com/MAHDI-BBHH/mahdi
+git clone https://github.com/Shuvo-BBHH/mahdi
 
 $ ls
 
